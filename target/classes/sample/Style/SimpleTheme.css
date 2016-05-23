@@ -1,0 +1,374 @@
+.root {
+    -fx-base: rgb(50, 50, 50);
+    -fx-background: rgb(50, 50, 50);
+    -fx-control-inner-background:  rgb(50, 50, 50);
+}
+
+.tab-pane .tab:selected {
+    -fx-background-color: #242528;
+}
+
+.tab {
+    -fx-background-color: linear-gradient(to top, -fx-base, derive(-fx-base,30%));
+}
+
+.menu-bar {
+    -fx-background-color: linear-gradient(to bottom, -fx-base, derive(-fx-base,30%));
+}
+
+.tool-bar:horizontal {
+    -fx-background-color: linear-gradient(to bottom, derive(-fx-base,+50%), derive(-fx-base,-40%), derive(-fx-base,-50%));
+}
+
+
+.table-view {
+    -fx-base: #1d1d1d;
+    -fx-control-inner-background: #1d1d1d;
+    -fx-background-color: #1d1d1d;
+    -fx-table-cell-border-color: rgba(250, 31, 24, 0);
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 10;
+}
+
+.processLinuxUP {
+     -fx-background-radius: 6, 5;
+     -fx-background-insets: 0, 1;
+     -fx-effect: dropshadow( three-pass-box , rgba(0,255,0,0.5) , 5, 0.0 , 0 , 1 );
+     -fx-text-fill: #10bd22; -fx-font-weight: bold;
+}
+
+.processLinuxDown {
+    -fx-background-radius: 6, 5;
+    -fx-background-insets: 0, 1;
+    -fx-effect: dropshadow( three-pass-box , rgba(255,0,0,0.5) , 5, 0.0 , 0 , 1 );
+    -fx-text-fill: red;
+    -fx-font-weight: bold;
+}
+
+.optionsblack {
+    -fx-background-color: #333333;
+    -fx-table-header-border-color: transparent;
+    -fx-pref-height: 100px;
+    -fx-padding: 40, 40, 20, 20;
+    -fx-spacing: 20;
+}
+
+
+.hboxConsole {
+    -fx-background-color: #333333;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 20,10,10,10;
+    -fx-spacing: 10;
+}
+
+.text-area {
+    -fx-base: #1d1d1d;
+    -fx-control-inner-background: #1d1d1d;
+    -fx-background-color: #1d1d1d;
+    -fx-table-cell-border-color: transparent;
+    -fx-table-header-border-color: transparent;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #020202;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: #2f2f2f;
+}
+
+.table-row-cell:hover {
+    -fx-background-color: #020202;
+}
+
+.list-cell:filled:hover {
+    -fx-background-color: -fx-cell-hover-color;
+    -fx-text-fill: -fx-text-inner-color;
+}
+
+.table-view {
+    -fx-table-cell-border-color:derive(-fx-base,+20%);
+    -fx-table-header-border-color:derive(-fx-base,+20%);
+}
+
+.split-pane:horizontal > * > .split-pane-divider {
+    -fx-border-color: transparent -fx-base transparent -fx-base;
+    -fx-background-color: transparent, derive(-fx-base,20%);
+    -fx-background-insets: 0, 0 1 0 1;
+}
+
+.my-gridpane {
+    -fx-background-color: radial-gradient(radius 100%, derive(-fx-base,20%), derive(-fx-base,-20%));
+}
+
+.separator-label {
+    -fx-text-fill: orange;
+}
+
+.hboxGeneral {
+    -fx-padding: 5px;
+    -fx-spacing: 10px;
+    -fx-gap-start-and-end: true;
+    -fx-pref-width: 100%;
+}
+
+.options {
+    -fx-background-color: #1f1f1f;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 35px;
+    -fx-gap-start-and-end: true;
+    -fx-pref-height: 100px;
+    -fx-spacing: 35px;
+}
+
+.hboxGraph{
+    -fx-background-color: #1f1f1f;
+    -fx-font-size: 10;
+    -fx-border-style: solid;
+    -fx-pref-height: 400px;
+}
+
+
+/* GRAFICOS */
+.chart {
+    -fx-background-color: #1f1f1f;
+    -fx-font-size: 10;
+}
+
+.chart-content {
+    -fx-padding: 30px;
+}
+
+.chart-legend {
+    -fx-background-color: rgba(255, 255, 255, 0);
+    -fx-padding: 10px;
+    -fx-border-style: solid;
+}
+
+.chart-legend-item-symbol{
+    -fx-background-radius: 0;
+}
+
+.chart-legend-item{
+    -fx-text-fill: #b2b2b2;
+}
+
+.chart-line {
+    -fx-stroke-width: 2px;
+    -fx-effect: null;
+    -fx-border-style: solid;
+}
+
+.chart-vertical-grid-lines {
+    -fx-stroke: #787878;
+}
+.chart-horizontal-grid-lines {
+    -fx-stroke: #787878;
+}
+
+.chart-alternative-row-fill {
+    -fx-fill: #2e2e2e;
+    -fx-stroke: transparent;
+    -fx-stroke-width: 0;
+}
+
+
+/* SELL SIDE */
+.consoleSellSide {
+    -fx-background-color: #1f1f1f;
+    -fx-border-width: 2px;
+    -fx-spacing: 20px;
+    -fx-padding: 20px;
+}
+
+.generalSellSide {
+    -fx-border-width: 0px;
+    -fx-spacing: 20px;
+    -fx-padding: 35px;
+}
+
+.buttonSellSide {
+    -fx-background-color: #1f1f1f;
+    -fx-pref-width: 100%;
+    -fx-border-width: 2px;
+    -fx-spacing: 20px;
+    -fx-padding: 35px;
+}
+
+.labelSellSide {
+    -fx-background-color: #1f1f1f;
+    -fx-pref-width: 100%;
+    -fx-border-width: 2px;
+    -fx-spacing: 20px;
+    -fx-padding: 35px;
+    -fx-stroke: black;
+    -fx-font-weight: bold;
+}
+
+/* KILL PROCCES */
+.tableviewProcess {
+    -fx-pref-width: 100%;
+    -fx-border-color: yellow;
+    -fx-border-width: 2px;
+}
+
+.hboxGrillProcess {
+    -fx-spacing: 20px;
+}
+
+.generalKillProcess {
+    -fx-pref-width: 1600px;
+    -fx-text-fill: red;
+    -fx-background-color: #1f1f1f;
+    -fx-border-width: 2px;
+    -fx-padding: 35px;
+    -fx-stroke: black;
+    -fx-font-weight: bold;
+}
+
+
+.hboxMenuKillCore {
+    -fx-control-inner-background: #1d1d1d;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 20,10,10,10;
+    -fx-spacing: 10;
+}
+
+.hboxMenuKillwebOrb {
+    -fx-control-inner-background: #1d1d1d;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 20,10,10,10;
+    -fx-spacing: 10;
+}
+
+.hboxMenuKill {
+    -fx-background-color: #333333;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 20,10,10,10;
+    -fx-spacing: 10;
+}
+
+.table-cell {
+    -fx-alignment: BASELINE_CENTER;
+}
+
+.menuHBox{
+    -fx-background-color: #333333;
+    -fx-table-header-border-color: transparent;
+    -fx-alignment: center;
+    -fx-padding: 10,10,10,10;
+    -fx-spacing: 10;
+    -fx-border-color: red;
+}
+
+.labelHBoxHBox{
+    -fx-background-color: #333333;
+    -fx-table-header-border-color: transparent;
+    -fx-alignment: center;
+    -fx-padding: 10,10,10,10;
+    -fx-spacing: 10;
+}
+
+.generalEditStrategy {
+    -fx-pref-width: 1200px;
+    -fx-pref-height: 700px;
+    -fx-border-color: red;
+    -fx-background-color: #1f1f1f;
+    -fx-alignment: center;
+    -fx-border-width: 2px;
+    -fx-padding: 35px;
+    -fx-stroke: black;
+    -fx-font-weight: bold;
+}
+
+
+
+.tableviewEditStrategy {
+    -fx-pref-width: 1600px;
+    -fx-pref-height: 870px;
+    -fx-border-color: red;
+    -fx-background-color: #1f1f1f;
+    -fx-alignment: center;
+    -fx-border-width: 0px;
+    -fx-padding: 35px;
+    -fx-stroke: black;
+    -fx-font-weight: bold;
+}
+
+
+
+
+.grillGeneral {
+    -fx-border-color: red;
+    -fx-border-width: 0px;
+    -fx-background-color: #1f1f1f;
+    -fx-alignment: center;
+    -fx-padding: 10px;
+    -fx-stroke: black;
+    -fx-font-weight: bold;
+}
+
+
+.grillPositions {
+    -fx-border-color: red;
+    -fx-border-width: 0px;
+    -fx-background-color: #1f1f1f;
+    -fx-alignment: center;
+    -fx-padding: 10px;
+    -fx-stroke: black;
+    -fx-font-weight: bold;
+}
+
+.grillLastPrice {
+    -fx-border-color: red;
+    -fx-border-width: 0px;
+    -fx-background-color: #1f1f1f;
+    -fx-alignment: center;
+    -fx-padding: 10px;
+    -fx-stroke: black;
+    -fx-font-weight: bold;
+}
+
+.graphLatency {
+    -fx-pref-width: 1600px;
+    -fx-pref-height: 870px;
+    -fx-border-color: red;
+    -fx-border-width: 1px;
+    -fx-background-color: #1f1f1f;
+    -fx-alignment: center;
+    -fx-padding: 1px;
+    -fx-stroke: black;
+    -fx-font-weight: bold;
+}
+
+
+.panelHardDiskH {
+    -fx-border-color: red;
+    -fx-border-width: 0px;
+    -fx-background-color: #1f1f1f;
+    -fx-alignment: center;
+    -fx-padding: 10px;
+    -fx-stroke: black;
+    -fx-font-weight: bold;
+}
+
+
+.grillGeneral {
+    -fx-border-color: red;
+    -fx-border-width: 0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

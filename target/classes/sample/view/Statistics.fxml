@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.controller.StatisticsController">
+  <children>
+
+    <TableView fx:id="statistics">
+
+      <columns>
+
+        <TableColumn fx:id="bid" text="Bid" prefWidth="50"/>
+        <TableColumn fx:id="offer" text="Offer" prefWidth="50"/>
+        <TableColumn fx:id="open" text="Open" prefWidth="50"/>
+        <TableColumn fx:id="close" text="Close" prefWidth="50"/>
+        <TableColumn fx:id="high" text="High" prefWidth="50"/>
+        <TableColumn fx:id="low" text="Low" prefWidth="50"/>
+        <TableColumn fx:id="imbalance" text="Imbalance" prefWidth="50"/>
+        <TableColumn fx:id="volume" text="Volume" prefWidth="50"/>
+        <TableColumn fx:id="amount" text="Amount" prefWidth="50"/>
+        <TableColumn fx:id="vwap" text="Vwap" prefWidth="50"/>
+
+      </columns>
+
+    </TableView>
+
+  </children>
+</AnchorPane>

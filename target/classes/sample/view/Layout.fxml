@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="453.999755859375" prefWidth="735.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2">
+  <children>
+    <VBox layoutX="23.0" layoutY="24.0" prefHeight="406.0" prefWidth="334.0">
+      <children>
+        <HBox prefHeight="100.0" prefWidth="327.5" />
+        <HBox prefHeight="306.0" prefWidth="334.0">
+          <children>
+            <VBox prefHeight="313.0" prefWidth="115.0" />
+            <VBox prefHeight="313.0" prefWidth="112.0" />
+            <VBox prefHeight="306.0" prefWidth="112.0" />
+          </children>
+        </HBox>
+      </children>
+    </VBox>
+    <VBox layoutX="365.0" layoutY="24.0" prefHeight="406.0" prefWidth="334.0">
+      <children>
+        <TabPane prefHeight="413.0" prefWidth="334.0" tabClosingPolicy="UNAVAILABLE">
+          <tabs>
+            <Tab text="Untitled Tab 1">
+              <content>
+                <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="375.0" prefWidth="320.0" />
+              </content>
+            </Tab>
+            <Tab text="Untitled Tab 2">
+              <content>
+                <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="382.0" prefWidth="342.0" />
+              </content>
+            </Tab>
+          </tabs>
+        </TabPane>
+      </children>
+    </VBox>
+  </children>
+</AnchorPane>

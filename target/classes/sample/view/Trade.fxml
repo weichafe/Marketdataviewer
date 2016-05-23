@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.controller.ControllerTrade">
+  <children>
+
+    <TableView fx:id="trade">
+
+      <columns>
+        <TableColumn fx:id="time" text="Time" prefWidth="50"/>
+        <TableColumn fx:id="px" text="Px" prefWidth="50"/>
+        <TableColumn fx:id="qty" text="Qty" prefWidth="50"/>
+        <TableColumn fx:id="amount" text="Amount" prefWidth="50"/>
+        <TableColumn fx:id="buyer" text="Buyer" prefWidth="50"/>
+        <TableColumn fx:id="seller" text="Seller" prefWidth="50"/>
+        <TableColumn fx:id="tc" text="Tc" prefWidth="50"/>
+      </columns>
+
+    </TableView>
+
+  </children>
+</AnchorPane>

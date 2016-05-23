@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.controller.ControllerOffer">
+  <children>
+
+    <TableView fx:id="offer">
+
+      <columns>
+        <TableColumn fx:id="op" text="OP" prefWidth="50"/>
+        <TableColumn fx:id="qty" text="BID" prefWidth="50"/>
+        <TableColumn fx:id="px" text="OFFER" prefWidth="50"/>
+      </columns>
+
+    </TableView>
+
+  </children>
+</AnchorPane>
