@@ -6,23 +6,23 @@ import javafx.scene.control.TableCell;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import sample.Repository;
-import sample.model.OfferModel;
+import sample.model.BidModel;
 
-public class ControllerOffer {
-
-    @FXML
-    private TableView<OfferModel> offer;
-
+public class BidController {
 
     @FXML
-    private TableColumn<OfferModel, String> op;
-
-    @FXML
-    private TableColumn<OfferModel, String> qty;
+    private TableView<BidModel> bid;
 
 
     @FXML
-    private TableColumn<OfferModel, String> px;
+    private TableColumn<BidModel, String> op;
+
+    @FXML
+    private TableColumn<BidModel, String> qty;
+
+
+    @FXML
+    private TableColumn<BidModel, String> px;
 
 
     @FXML
@@ -35,7 +35,7 @@ public class ControllerOffer {
 
 
         op.setCellFactory(column -> {
-            return new TableCell<OfferModel, String>() {
+            return new TableCell<BidModel, String>() {
                 @Override
                 protected void updateItem(String item, boolean empty) {
                     super.updateItem(item, empty);
@@ -53,7 +53,7 @@ public class ControllerOffer {
         });
 
         qty.setCellFactory(column -> {
-            return new TableCell<OfferModel, String>() {
+            return new TableCell<BidModel, String>() {
                 @Override
                 protected void updateItem(String item, boolean empty) {
                     super.updateItem(item, empty);
@@ -72,7 +72,7 @@ public class ControllerOffer {
 
 
         px.setCellFactory(column -> {
-            return new TableCell<OfferModel, String>() {
+            return new TableCell<BidModel, String>() {
                 @Override
                 protected void updateItem(String item, boolean empty) {
                     super.updateItem(item, empty);
@@ -102,8 +102,8 @@ public class ControllerOffer {
 
     }
 
-    public TableView<OfferModel> getType() {
+    public TableView<BidModel> getType() {
 
-        return offer;
+        return bid;
     }
 }

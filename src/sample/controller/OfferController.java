@@ -6,23 +6,23 @@ import javafx.scene.control.TableCell;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import sample.Repository;
-import sample.model.BidModel;
+import sample.model.OfferModel;
 
-public class ControllerBid {
-
-    @FXML
-    private TableView<BidModel> bid;
-
+public class OfferController {
 
     @FXML
-    private TableColumn<BidModel, String> op;
-
-    @FXML
-    private TableColumn<BidModel, String> qty;
+    private TableView<OfferModel> offer;
 
 
     @FXML
-    private TableColumn<BidModel, String> px;
+    private TableColumn<OfferModel, String> op;
+
+    @FXML
+    private TableColumn<OfferModel, String> qty;
+
+
+    @FXML
+    private TableColumn<OfferModel, String> px;
 
 
     @FXML
@@ -35,7 +35,7 @@ public class ControllerBid {
 
 
         op.setCellFactory(column -> {
-            return new TableCell<BidModel, String>() {
+            return new TableCell<OfferModel, String>() {
                 @Override
                 protected void updateItem(String item, boolean empty) {
                     super.updateItem(item, empty);
@@ -53,7 +53,7 @@ public class ControllerBid {
         });
 
         qty.setCellFactory(column -> {
-            return new TableCell<BidModel, String>() {
+            return new TableCell<OfferModel, String>() {
                 @Override
                 protected void updateItem(String item, boolean empty) {
                     super.updateItem(item, empty);
@@ -72,7 +72,7 @@ public class ControllerBid {
 
 
         px.setCellFactory(column -> {
-            return new TableCell<BidModel, String>() {
+            return new TableCell<OfferModel, String>() {
                 @Override
                 protected void updateItem(String item, boolean empty) {
                     super.updateItem(item, empty);
@@ -102,8 +102,8 @@ public class ControllerBid {
 
     }
 
-    public TableView<BidModel> getType() {
+    public TableView<OfferModel> getType() {
 
-        return bid;
+        return offer;
     }
 }

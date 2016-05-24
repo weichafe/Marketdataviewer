@@ -9,7 +9,7 @@ import javafx.scene.control.TableView;
 import sample.Repository;
 import sample.model.OfferModel;
 
-public class ControllerTrade {
+public class TradeController {
 
     @FXML
     private TableView<OfferModel> trade;

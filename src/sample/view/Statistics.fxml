@@ -6,7 +6,7 @@
 <AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.controller.StatisticsController">
   <children>
 
-    <TableView fx:id="statistics">
+    <TableView fx:id="statistics" prefWidth="700" prefHeight="60">
 
       <columns>
 

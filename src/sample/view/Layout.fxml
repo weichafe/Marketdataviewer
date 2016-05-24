@@ -6,23 +6,46 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.paint.*?>
 
-<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="453.999755859375" prefWidth="735.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2">
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="453.999755859375" prefWidth="735.0"
+            xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.controller.LayoutController">
   <children>
-    <VBox layoutX="23.0" layoutY="24.0" prefHeight="406.0" prefWidth="334.0">
+
+    <VBox>
       <children>
-        <HBox prefHeight="100.0" prefWidth="327.5" />
-        <HBox prefHeight="306.0" prefWidth="334.0">
+
+        <HBox>
+            <fx:include fx:id="embeddedStatistics" source="Statistics.fxml"/>
+        </HBox>
+
+        <HBox>
           <children>
-            <VBox prefHeight="313.0" prefWidth="115.0" />
-            <VBox prefHeight="313.0" prefWidth="112.0" />
-            <VBox prefHeight="306.0" prefWidth="112.0" />
+
+            <VBox>
+                <children>
+                  <fx:include fx:id="embeddedBid" source="Bid.fxml"/>
+                </children>
+            </VBox>
+
+            <VBox>
+               <children>
+                  <fx:include fx:id="embeddedOffer" source="Offer.fxml"/>
+               </children>
+            </VBox>
+
+            <VBox>
+               <children>
+                  <fx:include fx:id="embeddedTrade" source="Trade.fxml"/>
+               </children>
+            </VBox>
+
           </children>
         </HBox>
       </children>
     </VBox>
-    <VBox layoutX="365.0" layoutY="24.0" prefHeight="406.0" prefWidth="334.0">
+
+    <VBox>
       <children>
-        <TabPane prefHeight="413.0" prefWidth="334.0" tabClosingPolicy="UNAVAILABLE">
+        <TabPane>
           <tabs>
             <Tab text="Untitled Tab 1">
               <content>
@@ -38,5 +61,6 @@
         </TabPane>
       </children>
     </VBox>
+
   </children>
 </AnchorPane>

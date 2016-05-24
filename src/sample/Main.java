@@ -28,45 +28,26 @@ public class Main extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
 
+
         Repository.primaryStage = primaryStage;
-        Repository.primaryStage.setTitle("LogViewer");
+        Repository.primaryStage.setTitle("Market Data Viewer");
 
         layout.setLocation(Main.class.getResource("view/Layout.fxml"));
         panelBidLoader.setLocation(Main.class.getResource("view/Bid.fxml"));
         panelOfferLoader.setLocation(Main.class.getResource("view/Offer.fxml"));
         panelTradeLoader.setLocation(Main.class.getResource("view/Trade.fxml"));
         panelStatisticsLoader.setLocation(Main.class.getResource("view/Statistics.fxml"));
-        //panelPortafolioLoader.setLocation(Main.class.getResource("view/Statistics.fxml"));
 
-        VBox statistics = new VBox();
-        statistics.getStyleClass().add("Statistics");
-        statistics.getChildren().add((AnchorPane) panelStatisticsLoader.load());
-
-        VBox grillGeneral = new VBox();
-        grillGeneral.getStyleClass().add("grillGeneral");
-
-        HBox bid = new HBox();
-        bid.getStyleClass().add("Bid");
-        bid.getChildren().add((AnchorPane) panelBidLoader.load());
-
-
-        HBox offer = new HBox();
-        offer.getStyleClass().add("Offer");
-        offer.getChildren().add((AnchorPane) panelOfferLoader.load());
-
-        HBox trade = new HBox();
-        trade.getStyleClass().add("Trade");
-        trade.getChildren().add((AnchorPane) panelTradeLoader.load());
-
-        grillGeneral.getChildren().addAll(statistics, bid, offer, trade);
 
         ScrollPane scrollBar = new ScrollPane();
-        scrollBar.setContent(grillGeneral);
+        scrollBar.setContent((AnchorPane) layout.load());
         scrollBar.setVbarPolicy(ScrollPane.ScrollBarPolicy.ALWAYS);
 
-        Repository.rootLayout_Loader.setLocation(Main.class.getResource("view/rootLayout.fxml"));
+
+        Repository.rootLayout_Loader.setLocation(Main.class.getResource("view/Root.fxml"));
         BorderPane rootLayout_Loader = (BorderPane) Repository.rootLayout_Loader.load();
-        rootLayout_Loader.setCenter((AnchorPane) panelStatisticsLoader.load());
+        rootLayout_Loader.setCenter(scrollBar);
+
 
         Repository.scene = new Scene(rootLayout_Loader);
         primaryStage.setScene(Repository.scene);
@@ -85,6 +66,7 @@ public class Main extends Application {
 
             }
         });
+
 
 
     }
