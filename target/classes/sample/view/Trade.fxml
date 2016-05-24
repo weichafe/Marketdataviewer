@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import java.lang.*?>
 <?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.controller.TradeController">
+<AnchorPane prefWidth="610.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.controller.TradeController">
   <children>
-
-    <TableView fx:id="trade">
-
+    <TableView fx:id="trade" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="10.0">
       <columns>
-        <TableColumn fx:id="time" text="Time" prefWidth="50"/>
-        <TableColumn fx:id="px" text="Px" prefWidth="50"/>
-        <TableColumn fx:id="qty" text="Qty" prefWidth="50"/>
-        <TableColumn fx:id="amount" text="Amount" prefWidth="50"/>
-        <TableColumn fx:id="buyer" text="Buyer" prefWidth="50"/>
-        <TableColumn fx:id="seller" text="Seller" prefWidth="50"/>
-        <TableColumn fx:id="tc" text="Tc" prefWidth="50"/>
+        <TableColumn prefWidth="50.0" text="Time" fx:id="time" />
+        <TableColumn prefWidth="50.0" text="Px" fx:id="px" />
+        <TableColumn prefWidth="50.0" text="Qty" fx:id="qty" />
+        <TableColumn prefWidth="50.0" text="Amount" fx:id="amount" />
+        <TableColumn prefWidth="50.0" text="Buyer" fx:id="buyer" />
+        <TableColumn prefWidth="50.0" text="Seller" fx:id="seller" />
+        <TableColumn prefWidth="50.0" text="Tc" fx:id="tc" />
       </columns>
-
     </TableView>
-
   </children>
 </AnchorPane>

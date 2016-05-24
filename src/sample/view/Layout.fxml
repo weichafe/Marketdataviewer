@@ -2,65 +2,90 @@
 
 <?import java.lang.*?>
 <?import java.util.*?>
+<?import javafx.geometry.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.paint.*?>
 
-<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="453.999755859375" prefWidth="735.0"
-            xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.controller.LayoutController">
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="834.0" prefWidth="1577.999977929685" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.controller.LayoutController">
   <children>
-
-    <VBox>
+    <HBox layoutX="0.0" layoutY="0.0" prefHeight="834.0" prefWidth="1578.0">
       <children>
-
-        <HBox>
-            <fx:include fx:id="embeddedStatistics" source="Statistics.fxml"/>
-        </HBox>
-
-        <HBox>
+        <VBox prefHeight="834.0" prefWidth="820.0000999999975">
           <children>
-
-            <VBox>
-                <children>
-                  <fx:include fx:id="embeddedBid" source="Bid.fxml"/>
-                </children>
-            </VBox>
-
-            <VBox>
-               <children>
-                  <fx:include fx:id="embeddedOffer" source="Offer.fxml"/>
-               </children>
-            </VBox>
-
-            <VBox>
-               <children>
-                  <fx:include fx:id="embeddedTrade" source="Trade.fxml"/>
-               </children>
-            </VBox>
-
+            <HBox prefHeight="130.0" prefWidth="890.0" VBox.vgrow="ALWAYS">
+              <padding>
+                <Insets fx:id="x2" />
+              </padding>
+              <TitledPane animated="true" minWidth="870.0" prefHeight="105.0" prefWidth="887.0000999999975" text="untitled">
+                <content>
+                  <fx:include fx:id="embeddedStatistics" source="Statistics.fxml" focusTraversable="true" mouseTransparent="true" opacity="0.84" prefHeight="79.0" prefWidth="870.0">
+                    <padding>
+                      <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" fx:id="x1" />
+                    </padding>
+                  </fx:include>
+                </content>
+                <HBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="15.0" fx:id="x4" />
+                </HBox.margin>
+              </TitledPane>
+            </HBox>
+            <HBox prefHeight="712.0" prefWidth="897.0" visible="true">
+              <children>
+                <VBox padding="$x2" prefHeight="707.9999000000025" prefWidth="205.0">
+                  <TitledPane animated="true" prefWidth="-1.0" text="Bid" VBox.margin="$x1">
+                    <content>
+                      <fx:include fx:id="embeddedBid" source="Bid.fxml" prefHeight="665.0" prefWidth="191.0">
+                        <padding>
+                          <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" fx:id="x3" />
+                        </padding>
+                      </fx:include>
+                    </content>
+                  </TitledPane>
+                </VBox>
+                <VBox padding="$x2" prefHeight="639.0" prefWidth="187.0">
+                  <TitledPane animated="true" prefHeight="691.0" text="Offer" VBox.margin="$x1">
+                    <content>
+                      <fx:include fx:id="embeddedOffer" source="Offer.fxml" padding="$x3" prefHeight="660.0" prefWidth="177.0" />
+                    </content>
+                  </TitledPane>
+                </VBox>
+                <VBox prefHeight="707.9999000000025" prefWidth="501.0">
+                  <TitledPane animated="true" prefHeight="691.0" prefWidth="491.0" text="Trades" underline="false">
+                    <content>
+                      <fx:include fx:id="embeddedTrade" source="Trade.fxml" prefHeight="661.9998779296875" prefWidth="487.0">
+                        <padding>
+                          <Insets bottom="10.0" left="5.0" right="5.0" top="10.0" fx:id="x1" />
+                        </padding>
+                      </fx:include>
+                    </content>
+                    <VBox.margin>
+                      <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" fx:id="x1" />
+                    </VBox.margin>
+                  </TitledPane>
+                </VBox>
+              </children>
+            </HBox>
           </children>
-        </HBox>
-      </children>
-    </VBox>
-
-    <VBox>
-      <children>
-        <TabPane>
-          <tabs>
-            <Tab text="Untitled Tab 1">
+          <padding>
+            <Insets right="10.0" />
+          </padding>
+        </VBox>
+        <VBox padding="$x4" prefHeight="834.0" prefWidth="704.0">
+          <children>
+            <TitledPane animated="false" minWidth="491.0" prefHeight="817.0" prefWidth="699.0" text="Market Data">
               <content>
-                <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="375.0" prefWidth="320.0" />
+                <TabPane prefHeight="810.0" prefWidth="488.0" tabClosingPolicy="UNAVAILABLE">
+                  <tabs>
+                    <Tab closable="false" text="Ipsa" />
+                    <Tab content="$null" text="Portafolio 1" />
+                  </tabs>
+                </TabPane>
               </content>
-            </Tab>
-            <Tab text="Untitled Tab 2">
-              <content>
-                <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="382.0" prefWidth="342.0" />
-              </content>
-            </Tab>
-          </tabs>
-        </TabPane>
+            </TitledPane>
+          </children>
+        </VBox>
       </children>
-    </VBox>
-
+    </HBox>
   </children>
 </AnchorPane>

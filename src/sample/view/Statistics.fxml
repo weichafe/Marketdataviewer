@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
 <?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
 <?import javafx.scene.layout.AnchorPane?>
 
-<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.controller.StatisticsController">
+<AnchorPane prefHeight="75.5" prefWidth="763.9998779296875" rotate="0.0" visible="true" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.controller.StatisticsController">
   <children>
-
-    <TableView fx:id="statistics" prefWidth="700" prefHeight="60">
-
+    <TableView fx:id="statistics" prefHeight="75.5" prefWidth="763.9998779296875" tableMenuButtonVisible="false" visible="true" AnchorPane.bottomAnchor="75.5" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
       <columns>
-
-        <TableColumn fx:id="bid" text="Bid" prefWidth="50"/>
-        <TableColumn fx:id="offer" text="Offer" prefWidth="50"/>
-        <TableColumn fx:id="open" text="Open" prefWidth="50"/>
-        <TableColumn fx:id="close" text="Close" prefWidth="50"/>
-        <TableColumn fx:id="high" text="High" prefWidth="50"/>
-        <TableColumn fx:id="low" text="Low" prefWidth="50"/>
-        <TableColumn fx:id="imbalance" text="Imbalance" prefWidth="50"/>
-        <TableColumn fx:id="volume" text="Volume" prefWidth="50"/>
-        <TableColumn fx:id="amount" text="Amount" prefWidth="50"/>
-        <TableColumn fx:id="vwap" text="Vwap" prefWidth="50"/>
-
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="66.0" text="Bid" fx:id="bid" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="64.0" text="Offer" fx:id="offer" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="68.0" text="Open" fx:id="open" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="68.0" text="Close" fx:id="close" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="72.0" text="High" fx:id="high" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="61.0" text="Low" fx:id="low" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="75.0" text="Imbalance" fx:id="imbalance" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="58.0" text="Volume" fx:id="volume" />
+        <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="65.0" text="Amount" fx:id="amount" />
+        <TableColumn prefWidth="50.0" text="Vwap" fx:id="vwap" />
       </columns>
-
     </TableView>
-
   </children>
+  <padding>
+    <Insets />
+  </padding>
 </AnchorPane>
