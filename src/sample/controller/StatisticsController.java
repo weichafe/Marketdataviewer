@@ -14,7 +14,6 @@ public class StatisticsController {
     @FXML
     private TableView<StatisticsModel> statistics;
 
-
     @FXML
     private TableColumn<StatisticsModel, String> bid;
 
@@ -34,7 +33,6 @@ public class StatisticsController {
     @FXML
     private TableColumn<StatisticsModel, String> low;
 
-
     @FXML
     private TableColumn<StatisticsModel, String> imbalance;
 
@@ -47,10 +45,10 @@ public class StatisticsController {
     @FXML
     private TableColumn<StatisticsModel, String> vwap;
 
-
     @FXML
     private void initialize() throws Exception {
 
+        /*
         bid.setCellValueFactory(cellData -> new SimpleStringProperty(cellData.getValue().getBid().toString()));
         offer.setCellValueFactory(cellData -> new SimpleStringProperty(cellData.getValue().getOffer().toString()));
         open.setCellValueFactory(cellData -> new SimpleStringProperty(cellData.getValue().getOpen().toString()));
@@ -61,6 +59,7 @@ public class StatisticsController {
         volume.setCellValueFactory(cellData2 -> new SimpleStringProperty(cellData2.getValue().getVolume().toString()));
         amount.setCellValueFactory(cellData2 -> new SimpleStringProperty(cellData2.getValue().getAmount().toString()));
         vwap.setCellValueFactory(cellData2 -> new SimpleStringProperty(cellData2.getValue().getVwap().toString()));
+        */
 
 
         bid.setCellFactory(column -> {
@@ -236,6 +235,7 @@ public class StatisticsController {
     @FXML
     private synchronized void refreshTableView() {
 
+        statistics.setEditable(true);
         bid.setVisible(true);
         offer.setVisible(true);
         open.setVisible(true);

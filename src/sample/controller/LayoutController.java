@@ -21,20 +21,8 @@ public class LayoutController{
     private Parent embeddedTrade;
 
     @FXML
-    private StatisticsController statisticsController;
+    private Parent tradeController;
 
-    @FXML
-    private BidController bidController;
-
-    @FXML
-    private OfferController offerController;
-
-    @FXML
-    private TradeController tradeController;
-
-    public void initialize() {
-
-    }
 
 
 }
