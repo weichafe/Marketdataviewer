@@ -1,7 +1,10 @@
 package sample.controller;
 
 
+import javafx.beans.property.SimpleDoubleProperty;
 import javafx.beans.property.SimpleStringProperty;
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
 import javafx.scene.control.TableCell;
 import javafx.scene.control.TableColumn;
@@ -45,10 +48,12 @@ public class StatisticsController {
     @FXML
     private TableColumn<StatisticsModel, String> vwap;
 
+
+
     @FXML
     private void initialize() throws Exception {
 
-        /*
+
         bid.setCellValueFactory(cellData -> new SimpleStringProperty(cellData.getValue().getBid().toString()));
         offer.setCellValueFactory(cellData -> new SimpleStringProperty(cellData.getValue().getOffer().toString()));
         open.setCellValueFactory(cellData -> new SimpleStringProperty(cellData.getValue().getOpen().toString()));
@@ -59,7 +64,7 @@ public class StatisticsController {
         volume.setCellValueFactory(cellData2 -> new SimpleStringProperty(cellData2.getValue().getVolume().toString()));
         amount.setCellValueFactory(cellData2 -> new SimpleStringProperty(cellData2.getValue().getAmount().toString()));
         vwap.setCellValueFactory(cellData2 -> new SimpleStringProperty(cellData2.getValue().getVwap().toString()));
-        */
+
 
 
         bid.setCellFactory(column -> {
