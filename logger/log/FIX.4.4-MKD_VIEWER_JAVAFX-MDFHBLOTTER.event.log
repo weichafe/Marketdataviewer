@@ -1,0 +1,410 @@
+20160613-18:49:05.464: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-18:49:05.464: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-18:49:06.580: Initiated logon request
+20160613-18:49:06.611: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-18:49:06.611: Received logon
+20160613-18:51:58.555: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-18:51:58.556: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-18:51:59.661: Initiated logon request
+20160613-18:51:59.690: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-18:51:59.690: Received logon
+20160613-18:52:25.064: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-18:52:25.064: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-18:52:26.168: Initiated logon request
+20160613-18:52:26.200: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-18:52:26.200: Received logon
+20160613-19:17:41.877: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:17:41.878: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:17:42.983: Initiated logon request
+20160613-19:17:43.019: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:17:43.019: Received logon
+20160613-19:17:56.786: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:17:56.787: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:17:57.892: Initiated logon request
+20160613-19:17:57.932: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:17:57.932: Received logon
+20160613-19:18:48.577: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:18:48.578: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:18:49.673: Initiated logon request
+20160613-19:18:49.705: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:18:49.706: Received logon
+20160613-19:18:55.849: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:18:55.850: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:18:56.951: Initiated logon request
+20160613-19:18:56.983: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:18:56.983: Received logon
+20160613-19:23:29.059: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:23:29.060: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:23:30.157: Initiated logon request
+20160613-19:23:30.214: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:23:30.214: Received logon
+20160613-19:25:07.541: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:25:07.542: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:25:08.657: Initiated logon request
+20160613-19:25:08.693: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:25:08.693: Received logon
+20160613-19:25:51.912: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:25:51.913: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:25:53.029: Initiated logon request
+20160613-19:25:53.061: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:25:53.061: Received logon
+20160613-19:26:21.961: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:26:21.961: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:26:23.065: Initiated logon request
+20160613-19:26:23.102: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:26:23.102: Received logon
+20160613-19:26:56.716: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:26:56.717: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:26:57.822: Initiated logon request
+20160613-19:26:57.868: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:26:57.868: Received logon
+20160613-19:28:00.569: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:28:00.570: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:28:01.688: Initiated logon request
+20160613-19:28:01.721: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:28:01.721: Received logon
+20160613-19:33:44.036: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:33:44.037: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:33:45.145: Initiated logon request
+20160613-19:33:45.177: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:33:45.177: Received logon
+20160613-19:33:51.225: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:33:51.226: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:33:52.320: Initiated logon request
+20160613-19:33:52.353: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:33:52.353: Received logon
+20160613-19:34:25.227: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:34:25.228: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:34:26.328: Initiated logon request
+20160613-19:34:26.361: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:34:26.361: Received logon
+20160613-19:36:01.492: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:36:01.493: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:36:02.610: Initiated logon request
+20160613-19:36:02.690: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:36:02.690: Received logon
+20160613-19:41:51.798: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:41:51.799: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:41:52.895: Initiated logon request
+20160613-19:41:52.927: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:41:52.927: Received logon
+20160613-19:42:24.026: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:42:24.027: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:42:25.121: Initiated logon request
+20160613-19:42:25.152: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:42:25.152: Received logon
+20160613-19:43:20.578: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:43:20.578: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:43:21.674: Initiated logon request
+20160613-19:43:21.703: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:43:21.703: Received logon
+20160613-19:43:28.294: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:43:28.295: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:43:29.399: Initiated logon request
+20160613-19:43:29.432: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:43:29.432: Received logon
+20160613-19:43:34.694: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:43:34.695: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:43:35.788: Initiated logon request
+20160613-19:43:35.827: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:43:35.827: Received logon
+20160613-19:43:55.549: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:43:55.550: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:43:56.671: Initiated logon request
+20160613-19:43:56.700: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:43:56.701: Received logon
+20160613-19:44:27.242: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:44:27.243: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:44:28.343: Initiated logon request
+20160613-19:44:28.389: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:44:28.389: Received logon
+20160613-19:45:30.461: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:45:30.462: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:45:31.576: Initiated logon request
+20160613-19:45:31.608: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:45:31.608: Received logon
+20160613-19:46:09.807: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:46:09.807: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:46:10.908: Initiated logon request
+20160613-19:46:10.937: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:46:10.938: Received logon
+20160613-19:47:39.865: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:47:39.866: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:47:40.968: Initiated logon request
+20160613-19:47:41.001: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:47:41.001: Received logon
+20160613-19:47:59.310: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:47:59.311: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:48:00.417: Initiated logon request
+20160613-19:48:00.472: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:48:00.473: Received logon
+20160613-19:48:16.732: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:48:16.733: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:48:17.840: Initiated logon request
+20160613-19:48:17.874: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:48:17.874: Received logon
+20160613-19:48:37.080: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:48:37.080: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:48:38.180: Initiated logon request
+20160613-19:48:38.210: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:48:38.210: Received logon
+20160613-19:48:54.955: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:48:54.956: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:48:56.070: Initiated logon request
+20160613-19:48:56.100: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:48:56.100: Received logon
+20160613-19:49:18.783: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:49:18.783: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:49:19.882: Initiated logon request
+20160613-19:49:19.915: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:49:19.915: Received logon
+20160613-19:53:18.998: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:53:18.998: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:53:20.106: Initiated logon request
+20160613-19:53:20.137: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:53:20.137: Received logon
+20160613-19:54:16.656: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:54:16.657: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:54:17.758: Initiated logon request
+20160613-19:54:17.793: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:54:17.793: Received logon
+20160613-19:54:39.597: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:54:39.598: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:54:40.717: Initiated logon request
+20160613-19:54:40.751: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:54:40.751: Received logon
+20160613-19:55:23.594: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:55:23.594: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:55:24.686: Initiated logon request
+20160613-19:55:24.720: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:55:24.720: Received logon
+20160613-19:55:51.488: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:55:51.488: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:55:52.588: Initiated logon request
+20160613-19:55:52.673: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:55:52.674: Received logon
+20160613-19:56:35.153: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:56:35.154: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:56:36.261: Initiated logon request
+20160613-19:56:36.297: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:56:36.298: Received logon
+20160613-19:57:11.979: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:57:11.979: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:57:13.095: Initiated logon request
+20160613-19:57:13.127: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:57:13.127: Received logon
+20160613-19:58:45.675: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-19:58:45.675: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-19:58:46.782: Initiated logon request
+20160613-19:58:46.815: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-19:58:46.815: Received logon
+20160613-20:01:47.286: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:01:47.286: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:01:48.394: Initiated logon request
+20160613-20:01:48.429: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:01:48.429: Received logon
+20160613-20:02:31.233: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:02:31.234: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:02:32.339: Initiated logon request
+20160613-20:02:32.373: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:02:32.373: Received logon
+20160613-20:03:16.019: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:03:16.020: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:03:17.129: Initiated logon request
+20160613-20:03:17.162: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:03:17.162: Received logon
+20160613-20:05:01.151: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:05:01.152: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:05:02.271: Initiated logon request
+20160613-20:05:02.302: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:05:02.302: Received logon
+20160613-20:05:42.621: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:05:42.622: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:05:43.729: Initiated logon request
+20160613-20:05:43.762: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:05:43.762: Received logon
+20160613-20:06:41.966: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:06:41.967: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:06:43.065: Initiated logon request
+20160613-20:06:43.097: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:06:43.098: Received logon
+20160613-20:07:05.704: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:07:05.705: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:07:06.806: Initiated logon request
+20160613-20:07:06.859: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:07:06.859: Received logon
+20160613-20:08:42.721: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:08:42.722: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:08:43.823: Initiated logon request
+20160613-20:08:43.860: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:08:43.860: Received logon
+20160613-20:10:12.648: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:10:12.649: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:10:13.748: Initiated logon request
+20160613-20:10:13.807: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:10:13.807: Received logon
+20160613-20:12:09.998: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:12:09.999: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:12:11.103: Initiated logon request
+20160613-20:12:11.135: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:12:11.136: Received logon
+20160613-20:12:50.696: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:12:50.697: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:12:51.803: Initiated logon request
+20160613-20:12:51.838: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:12:51.838: Received logon
+20160613-20:13:47.659: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:13:47.660: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:13:48.760: Initiated logon request
+20160613-20:13:48.794: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:13:48.794: Received logon
+20160613-20:15:45.151: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:15:45.152: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:15:46.253: Initiated logon request
+20160613-20:15:46.297: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:15:46.297: Received logon
+20160613-20:16:18.141: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:16:18.141: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:16:19.257: Initiated logon request
+20160613-20:16:19.283: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:16:19.283: Received logon
+20160613-20:17:06.223: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:17:06.224: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:17:07.323: Initiated logon request
+20160613-20:17:07.364: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:17:07.364: Received logon
+20160613-20:20:31.879: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:20:31.880: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:20:32.979: Initiated logon request
+20160613-20:20:33.019: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:20:33.019: Received logon
+20160613-20:20:50.421: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:20:50.422: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:20:51.514: Initiated logon request
+20160613-20:20:51.605: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:20:51.605: Received logon
+20160613-20:23:48.092: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:23:48.093: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:23:49.189: Initiated logon request
+20160613-20:23:49.232: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:23:49.232: Received logon
+20160613-20:24:39.314: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:24:39.314: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:24:40.416: Initiated logon request
+20160613-20:24:40.450: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:24:40.450: Received logon
+20160613-20:25:17.849: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:25:17.850: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:25:18.940: Initiated logon request
+20160613-20:25:19.004: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:25:19.004: Received logon
+20160613-20:26:22.328: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:26:22.329: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:26:23.446: Initiated logon request
+20160613-20:26:23.483: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:26:23.483: Received logon
+20160613-20:27:09.001: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:27:09.002: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:27:10.106: Initiated logon request
+20160613-20:27:10.143: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:27:10.144: Received logon
+20160613-20:27:25.721: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:27:25.722: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:27:26.820: Initiated logon request
+20160613-20:27:26.859: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:27:26.859: Received logon
+20160613-20:28:48.121: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:28:48.122: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:28:49.223: Initiated logon request
+20160613-20:28:49.264: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:28:49.264: Received logon
+20160613-20:29:30.173: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:29:30.174: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:29:31.280: Initiated logon request
+20160613-20:29:31.318: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:29:31.318: Received logon
+20160613-20:40:17.234: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:40:17.235: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:40:18.353: Initiated logon request
+20160613-20:40:18.418: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:40:18.418: Received logon
+20160613-20:40:42.288: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:40:42.288: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:40:43.386: Initiated logon request
+20160613-20:40:43.419: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:40:43.419: Received logon
+20160613-20:41:11.817: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:41:11.818: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:41:12.915: Initiated logon request
+20160613-20:41:12.949: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:41:12.949: Received logon
+20160613-20:41:25.938: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:41:25.939: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:41:27.041: Initiated logon request
+20160613-20:41:27.099: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:41:27.100: Received logon
+20160613-20:42:03.159: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:42:03.159: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:42:04.270: Initiated logon request
+20160613-20:42:04.396: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:42:04.397: Received logon
+20160613-20:43:07.449: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:43:07.450: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:43:08.559: Initiated logon request
+20160613-20:43:08.588: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:43:08.589: Received logon
+20160613-20:43:27.010: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:43:27.011: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:43:28.115: Initiated logon request
+20160613-20:43:28.151: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:43:28.151: Received logon
+20160613-20:43:42.841: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:43:42.841: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:43:43.926: Initiated logon request
+20160613-20:43:43.964: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:43:43.964: Received logon
+20160613-20:44:05.805: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:44:05.805: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:44:06.908: Initiated logon request
+20160613-20:44:06.951: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:44:06.951: Received logon
+20160613-20:45:11.089: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:45:11.090: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:45:12.198: Initiated logon request
+20160613-20:45:12.237: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:45:12.237: Received logon
+20160613-20:46:06.043: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:46:06.043: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:46:07.152: Initiated logon request
+20160613-20:46:07.186: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:46:07.186: Received logon
+20160613-20:46:41.624: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:46:41.625: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:46:42.718: Initiated logon request
+20160613-20:46:42.809: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:46:42.809: Received logon
+20160613-20:47:08.551: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:47:08.552: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:47:09.656: Initiated logon request
+20160613-20:47:09.695: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:47:09.695: Received logon
+20160613-20:48:11.168: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:48:11.169: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:48:12.282: Initiated logon request
+20160613-20:48:12.318: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:48:12.318: Received logon
+20160613-20:49:11.001: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:49:11.001: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:49:12.103: Initiated logon request
+20160613-20:49:12.136: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:49:12.136: Received logon
+20160613-20:49:29.172: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:49:29.173: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:49:30.279: Initiated logon request
+20160613-20:49:30.315: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:49:30.316: Received logon
+20160613-20:50:01.462: Session FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER schedule is daily, 00:01:00-UTC - 23:59:00-UTC
+20160613-20:50:01.463: Created session: FIX.4.4:MKD_VIEWER_JAVAFX->MDFHBLOTTER
+20160613-20:50:02.560: Initiated logon request
+20160613-20:50:02.595: Logon contains ResetSeqNumFlag=Y, resetting sequence numbers to 1
+20160613-20:50:02.595: Received logon

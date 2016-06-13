@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="-1.0" prefWidth="-1.0" snapToPixel="true" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="screensframework.controller.SymbolsController">
+  <children>
+    <TitledPane alignment="TOP_LEFT" animated="false" contentDisplay="BOTTOM" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-1.0" minWidth="-Infinity" prefHeight="-1.0" prefWidth="-1.0" text="Chile" textAlignment="CENTER" wrapText="false" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="5.0">
+      <content>
+        <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="-1.0" prefWidth="-1.0">
+          <children>
+            <TableView fx:id="ipsa" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" HBox.hgrow="ALWAYS">
+              <columns>
+                <TableColumn text="Symbol" fx:id="symbol" />
+                <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="74.0" text="Open" fx:id="open" />
+                <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="73.0" text="Close" fx:id="close" />
+                <TableColumn text="High" fx:id="high" />
+                <TableColumn text="Low" fx:id="low" />
+                <TableColumn text="Imbalance" fx:id="imbalance" />
+                <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="84.0" text="Volume" fx:id="volume" />
+                <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="95.0" text="Amount" fx:id="amount" />
+              </columns>
+              <HBox.margin>
+                <Insets />
+              </HBox.margin>
+            </TableView>
+          </children>
+          <padding>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" fx:id="x1" />
+          </padding>
+        </HBox>
+      </content>
+    </TitledPane>
+  </children>
+</AnchorPane>
